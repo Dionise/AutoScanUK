@@ -1,5 +1,6 @@
 # AutoScanUK
-This is prototip of the small mobile applicaltion
+This is a prototype of a small mobile application used to get details about the specific car using DVLA API.
+See details: https://developer-portal.driver-vehicle-licensing.api.gov.uk/#dvla-api-developer-portal 
 
 
 
